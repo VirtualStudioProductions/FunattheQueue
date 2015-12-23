@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fun@theQueue</string>
+    <string name="facebook_app_id">Facebook</string>
+    <string name="app_id">
+        1647863555438579
+    </string>
+    <string name="twitter_consumer_key">
+        6Wu4AcLlUYfUC9QZuSR7L9BDx
+    </string>
+    <string name="twitter_consumer_secret">
+        M9Otarr5hNgJqO4tQ3n5Wzj2DXtVfxmUd9513jkDpD0nN9y74B
+    </string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="twitter_knop">Twitter</string>
+    <string name="faecbook_knop">Facebook</string>
+    <string name="google_knop">GooglePlus</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
